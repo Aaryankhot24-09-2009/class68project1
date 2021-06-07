@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> my school NKVS 
+    </title>
+    <link href="https://fonts.googleapis.com/css?family=Cinzel+Decorative&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Cinzel+Decorative&display=swap" rel="stylesheet">
+</head>
+
+
+<body>
+    <ul class="menu">
+        <li class="links"><a href="#welcome">HOME</a></li>
+        <li class="links"><a href="#videos">VIDEOS</a></li>
+        <li class="links"><a href="#contact">CONTACT</a></li>
+    </ul>
+
+ <section id="welcome" class="intro">
+        <div class="middle">
+            <img src="Nav Krishna Valley School" class="photo">
+            <h1> I Am <br> Tim Berners Lee
+            </h1>
+            <h2> I Am The Founder Of www: World Wide Web
+            </h2>
+        </div>
+    </section>
